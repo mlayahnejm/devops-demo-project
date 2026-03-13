@@ -1,5 +1,5 @@
 # Base image 
-FROM openjdk:27-ea-nanoserver-ltsc2025 
+FROM openjdk:27-ea-nanoserver-ltsc2025
 #17-ea-17-jdk-slim
 
 # setting artifact path
