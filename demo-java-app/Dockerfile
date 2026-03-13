@@ -1,5 +1,6 @@
 # Base image 
-FROM openjdk:17-ea-17-jdk-slim
+FROM openjdk:27-ea-nanoserver-ltsc2025 
+#17-ea-17-jdk-slim
 
 # setting artifact path
 ARG artifact=target/demo-java-app.jar
